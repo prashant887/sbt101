@@ -1,0 +1,36 @@
+1698218413785:ls
+1698218438017:scalaVersion
+1698218447940:help
+1698218660992:clear
+1698218680327:mkdir -p src/main/scala
+1698218925049:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/6y/gn_fyyz57d98z_c8jpr6vkg40000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/pl/Library/Application Support/JetBrains/IdeaIC2023.1/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2023.1.0/sbt-structure-extractor-2023.1.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1698219196526:sbt compile
+1698219237569:sbt help
+1698219303133:compile
+1698219409136:run
+1698219485391:run A B C
+1698219514773:clean
+1698219518014:compile
+1698219539788:run
+1698219619273:consol
+1698219624408:console
+1698222907366:sourceDirectories
+1698222919606:baseDirectory
+1698222989949:scalaSource
+1698223073929:reload
+1698223077369:name
+1698223303303:inspect name
+1698223374139:inspect package
+1698223385451:inspect clean
+1698223404573:inspect run
+1698223472653:tasks
+1698223867838:relaod
+1698223917968:reload
+1698223929250:help emotions
+1698224065085:reload
+1698224072551:help
+1698224088360:help randomInt
+1698224107520:show randmomInt
+1698224118030:show randomInt
+1698224363293:reload
+1698224367724:status

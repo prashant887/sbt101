@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(status, Some(bc288640-e1bd-4add-aec5-d6b53f7c9f4f), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: status[0m
+[0m[[0m[0minfo[0m] [0m[0mGrateful Fantastic[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
